@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.items {
+  width: 90%;
+  padding: 9px;
+  border: 1px solid #7c7a7a;
+  border-radius: 20px;
+}
+.cheek {
+  margin-top: 6px;
+  width: 15px;
+  height: 15px;
+}
